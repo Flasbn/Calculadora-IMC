@@ -1,2 +1,2 @@
-# Calculadora-IMC
+# Projeto básico feito com JavaScript
  calculadoraimc
